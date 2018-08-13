@@ -1,0 +1,23 @@
+ORGANIZATIONS 
+
+Girls Who Code clubs!
+#BUILTBYGIRLS
+Black Girls Code 
+Computer Science for Cyber Security (CS4CS) @ NYU Tandon 
+Technovation Challenge
+NASA Girls 
+Ladies Storm Hackathons
+She++
+Girls Inc. 
+NCWIT 
+ProjectCSGIRLS
+AnitaB.org
+Society of Women Engineers 
+ARROW NYC
+Bit By Bit Conference
+
+
+
+RESOURCES
+https://github.com/Ladies-Storm-Hackathons/Resources
+https://www.computerscience.org/resources/women-in-computer-science/
